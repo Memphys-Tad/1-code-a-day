@@ -1,4 +1,4 @@
-package lab211;
+package lab211; //Bai J1.S.0001 Lab211
 
 import java.util.Random;
 import java.util.Scanner;
